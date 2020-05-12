@@ -2,6 +2,7 @@
 
 ## Calculator Project - ReactJS ( 12/05/2020 )
 
+![calculadora](https://user-images.githubusercontent.com/60307596/81639810-5f188580-93f3-11ea-96b9-ecf51f1d3f31.PNG)
 
 
 
